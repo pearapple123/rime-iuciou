@@ -11,7 +11,7 @@ min_phrase_weight: 100
 name: iuciou
 sort: by_weight
 use_preset_vocabulary: true
-version: "1.6.0"
+version: "1.7.0"
 ...
 
 㵩	dza
