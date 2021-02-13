@@ -34,6 +34,7 @@ patch:
     - {schema: luna_quanpin}
     - {schema: iuciou}
 ```
-It doesn't have to be exactly like this - remove or add schemas for IMEs you don't need or need respectively. To add schemas, the formula is `- {schema: [schema_id]}` where schema_id can be found in the schema.yaml file of the IME (but is usually the same name as the file name minus the .schema.yaml extension)
+It doesn't have to be exactly like this - remove or add schemas for IMEs you don't need or need respectively. To add schemas, the formula is `- {schema: [schema_id]}` where schema_id can be found in the schema.yaml file of the IME (but is usually the same name as the file name minus the .schema.yaml extension).
+
 5. Re-deploy by clicking on the RIME option (see image above) in the language tab, then right-clicking on the button to the immediate left of the language tab, which will either have an "A" (alphanumeric mode) or "中" (han mode) on it and then clicking on the option in the dropdown list called '重新部署 (R)'
 6. If not already in Han mode, click on the button or press Shift to do so.
