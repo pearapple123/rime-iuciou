@@ -29,8 +29,8 @@ version: "1.7.1"
 下	gho
 下	ho
 下	o
-不	fu
-不	pai
+不	fu	80%
+不	pai	20%
 丐	ha
 丐	ke
 丐	khoe
@@ -135,7 +135,7 @@ version: "1.7.1"
 仿	huao
 企	dzy
 企	tshy
-伉	khuao
+伉	khuao	50%
 伊	i
 伍	ng
 伏	vu
@@ -164,7 +164,7 @@ version: "1.7.1"
 佔	ci
 何	gha
 何	vu
-何	ɡa
+何	ga
 何乜	ghagni
 佘	zei
 余	vu
@@ -436,7 +436,7 @@ version: "1.7.1"
 勸	chiu
 勺	ya
 勾	kau
-勿	fai
+勿	fai	50%
 匄	ha
 包	puao
 匆	tshon
@@ -493,7 +493,7 @@ version: "1.7.1"
 厄	a
 厘	lei
 厚	ghau
-厚	ɡau
+厚	gau
 厝	tsho
 原	gniu
 厥	ciu
@@ -567,7 +567,7 @@ version: "1.7.1"
 吩	fan
 含	ghan
 含	ghoe
-含	ɡan
+含	gan
 吭	wao
 吮	yon
 吳	ng
@@ -1175,7 +1175,7 @@ version: "1.7.1"
 島	teo
 峻	shion
 峽	ka
-峽	ɡa
+峽	ga
 崁	khoe
 崆	khon
 崇	zon
@@ -1347,7 +1347,7 @@ version: "1.7.1"
 徘	bai
 徙	sy
 徛	gi
-徛	ɡe
+徛	ge
 從	tshon
 從	yuao
 御	gniu
@@ -1389,7 +1389,7 @@ version: "1.7.1"
 怪	ka
 怯	chi
 怯	cia
-恁 nang
+恁	nan
 恃	zy
 恍	huao
 恐	chiuao
@@ -1489,7 +1489,7 @@ version: "1.7.1"
 懲	dzen
 懵	mon
 懷	va
-懷	ɡa
+懷	ga
 懸	shiu
 懸	yu
 懺	tsha
@@ -1502,7 +1502,7 @@ version: "1.7.1"
 戍	sy
 戎	zon
 成	zen
-我	ng
+我	ng  50%
 我倈	ngle
 戒	ka
 或	va
@@ -1611,7 +1611,7 @@ version: "1.7.1"
 挽	ma
 挽	va
 挾	yi
-挾	ɡa
+挾	ga
 捅	thon
 捆	khan
 捉	cio
@@ -1693,7 +1693,7 @@ version: "1.7.1"
 摔	sai
 摘	tei
 摘	tsa
-摜	ɡa
+摜	ga
 摞	lou
 摟	lau
 摧	dzai
@@ -1703,7 +1703,7 @@ version: "1.7.1"
 摩	mu
 摯	tsy
 摳	khau
-摳	ɡau
+摳	gau
 摸	mo
 摺	ci
 撇	phi
@@ -1748,7 +1748,7 @@ version: "1.7.1"
 擦	tsha
 擬	gni
 擱	ko
-擱	ɡo
+擱	go
 擲	dzei
 擲	ji
 擴	khuao
@@ -1858,7 +1858,7 @@ version: "1.7.1"
 昧	mai
 昨	zo
 昭	ciae
-是	zy
+是	zy	50%
 時	zy
 晃	huao
 晉	tsan
@@ -1899,7 +1899,7 @@ version: "1.7.1"
 曝	bo
 曝	bu
 曠	khuao
-曠	ɡuao
+曠	guao
 曩	nuao
 曬	sa
 曰	iae
@@ -1981,10 +1981,10 @@ version: "1.7.1"
 枯	khu
 枵	shiae
 架	ko
-架	ɡo
-架	ɡuao
+架	go
+架	guao
 枷	ko
-枷	ɡo
+枷	go
 柄	pen
 柏	pa
 某	mo
@@ -2140,7 +2140,7 @@ version: "1.7.1"
 橙	dzen
 橙	dziae
 橛	jiu
-橛	ɡiu
+橛	giu
 機	tsy
 橡	yi
 橫	viae
@@ -2484,7 +2484,7 @@ version: "1.7.1"
 潮落	jiaelo
 潮駕	jiaeko
 潰	vai
-潰	ɡai
+潰	gai
 潲	suao
 潷	pi
 潸	sa
@@ -2746,7 +2746,7 @@ version: "1.7.1"
 璃	lei
 璧	pi
 環	va
-環	ɡa
+環	ga
 璽	sei
 瓊	jion
 瓜	ko
@@ -3627,7 +3627,7 @@ version: "1.7.1"
 荔	lei
 荷	fu
 荷	vu
-荷	ɡa
+荷	ga
 莆	bu
 莉	lei
 莊	ciuao
@@ -3946,7 +3946,7 @@ version: "1.7.1"
 角	ko
 解	gha
 解	ka
-解	ɡa
+解	ga
 觸	chio
 言	gni
 訂	ten
@@ -4160,8 +4160,8 @@ version: "1.7.1"
 跑	phuao
 跔	ciau
 跔	jiau
-跔	ɡau
-跔	ɡu
+跔	gau
+跔	gu
 跗	fu
 跛	pu
 距	jiu
@@ -4205,7 +4205,7 @@ version: "1.7.1"
 車	tsho
 軋	a
 軋	tsa
-軋	ɡa
+軋	ga
 軌	ciu
 軍	cion
 軒	shi
@@ -4416,7 +4416,7 @@ version: "1.7.1"
 銑	sei
 銘	men
 銜	gha
-銜	ɡa
+銜	ga
 銬	khau
 銱	tiae
 銷	shiae
@@ -4537,9 +4537,9 @@ version: "1.7.1"
 降	kuao
 降	wao
 降	yi
-降	ɡuao
+降	guao
 限	gha
-限	ɡa
+限	ga
 陛	bei
 陝	shi
 陡	tau
@@ -4555,7 +4555,7 @@ version: "1.7.1"
 陶	deo
 陶	yae
 陷	gha
-陷	ɡa
+陷	ga
 陸	lou
 陽	yi
 隅	gniu
@@ -4730,7 +4730,7 @@ version: "1.7.1"
 餛	van
 餞	ci
 餡	gha
-餡	ɡa
+餡	ga
 館	kiu
 餾	lou
 餿	sau
@@ -4881,7 +4881,6 @@ version: "1.7.1"
 黃泥山	waognisa
 黃	gha
 黃	wao
-黃
 黍	sy
 黎	lei
 黑	he
@@ -4935,7 +4934,7 @@ version: "1.7.1"
 蠣	lei
 塳	bon
 㼧	don
-癐 vai
+癐	vai
 片石	phizei
 凍石	tonzei
 臘石	lazei
@@ -5001,4 +5000,7 @@ version: "1.7.1"
 洋蠟	yila
 塳塵	bondzan
 棱㼧	landon
-# Page 368
+鐵板	thipa
+火泥	fugni
+洋蜜	yumi
+𫶝宕	ngaduao
