@@ -18,7 +18,9 @@ Adding more compounds using the index in 方言詞典 and Wugniu readings.
 1. Go to [RIME's website](https:/rime.im) and download Weasel (the one with the Windows logo)
 2. Follow the wizard and complete the installation process
 3. Check the language tab (the one that says ENG if you're using English etc.) and see if there's an option that looks like this:
+
   ![RIME option](image.png)
+  
 4. Go to `C:\Users\[user]\AppData\Roaming\Rime` and create a file called `default.custom.yaml`. In this, copy this:
 ```
 patch:
