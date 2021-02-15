@@ -11,7 +11,7 @@ min_phrase_weight: 100
 name: iuciou
 sort: by_weight
 use_preset_vocabulary: true
-version: "1.7.1"
+version: "1.9.1"
 ...
 
 㵩	dza
@@ -4510,6 +4510,7 @@ version: "1.7.1"
 閑	gha
 閑田	ghadi
 間	ka
+間	ho
 閘	za
 閣	ko
 閤	kiu
@@ -4951,6 +4952,16 @@ version: "1.7.1"
 鰲	ngeo
 卬	nguao
 昢	bai
+煝	mai
+摝	leu
+耖	tshuao
+衆	cion
+沓	doe
+耙	bo
+鷄	tsy
+㮔	ciuao
+槄	deo
+臿	tsha
 片石	phizei
 凍石	tonzei
 臘石	lazei
@@ -5214,3 +5225,62 @@ version: "1.7.1"
 許下兒	heong
 前境
 當忙工夫	tuaomuaokonfeu
+臨時邊兒	lenzyping
+半半日日	poepoenene
+朝世	ciaesei
+下半世	ghopoesei
+透世
+成世
+工夫	konfeu
+落來	lole
+年甲
+古原先
+後見煞
+一風	ihon
+自耕清業	zykiaetshengni
+壅本
+壅力
+打底壅
+壅土
+煝火泥
+壅田
+拂田
+插田
+耘田
+耖田
+翻田
+拖田	thadi
+犁田
+摝田
+通田
+雙收田
+雙插田
+衆田
+接力壅
+沓壅
+耙豬沙
+豬沙
+鷄惡	tsyo
+田皮
+做肚	tsoudeu
+教拖	kuaotha
+間晚	kama
+間㮔	hociuao
+打㮔
+踏水
+踏馬水
+打坎
+早槄熟
+晚槄熟	madeoyou
+攏殼
+摜槄
+割槄
+打槄
+臿米
+交生	kuaosiae
+爛腳瘟
+曬殼坦	sakhoda
+正租
+茅坑
+惡坑
+仰天坑
