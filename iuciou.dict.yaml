@@ -20,7 +20,7 @@ version: "1.7.1"
 一	iai
 丁	ten
 七	tshai
-七姑星	tshaikusen
+七姑星 	tshaikusen
 万	ma
 万	va
 丈	ji
@@ -65,7 +65,7 @@ version: "1.7.1"
 乏	gho
 乒	phen
 乓	phon
-恁界
+恁界	nanka
 乖	ka
 乘	zen
 乙	iai
@@ -368,6 +368,7 @@ version: "1.7.1"
 刎	van
 刑	yan
 划	va
+划	gho
 列	li
 初	tshou
 判	phoe
@@ -1989,6 +1990,7 @@ version: "1.7.1"
 架	guao
 枷	ko
 枷	go
+瑣	sai
 柄	pen
 柏	pa
 某	mo
@@ -4945,6 +4947,10 @@ version: "1.7.1"
 撣	ta
 歳	sy
 㶣	da
+滾	kan
+鰲	ngeo
+卬	nguao
+昢	bai
 片石	phizei
 凍石	tonzei
 臘石	lazei
@@ -5108,3 +5114,103 @@ version: "1.7.1"
 新年酒	sangniciou
 長八日	jipone
 該倈	kile
+滾龍	kanliae
+檔龍	tuaoliae
+布龍	peuliae
+凳板龍	tanpaliae
+迎燈
+龍燈	liaetan
+鰲山
+狗頭圈
+攔街福
+清明餅兒	tshenmenpenng
+重五節
+五月五
+重五粽
+草頭
+重五草
+雄黃酒	yonwaociou
+香袋
+長命綫	cimenshi
+龍鉛	liaekha
+划斗龍	ghotauliae
+上水
+收香
+散河
+六月六	lougniulou
+嘗新	yisan
+巧食	khuaozei
+麻巧
+七月半	tshaigniupoe
+八月十五	pogniuzaing
+出年	chiugni
+明年	mangni
+前兩年	yiliaegni
+大前年	douyigni
+年加年
+年底
+對年
+閏年
+荒年
+透年
+十二忙月	zaingmuaogniu
+月日	gniune
+一個月日	ikaigniune
+前個月日	yikaigniune
+該個月日	kikaigniune
+下個月日	ghokaigniune
+每個月日	maikaigniune
+月加月	gniukogniu
+閑月	ghagniu
+初裏
+傍月	buaogniu
+念裏
+瑣月	saigniu
+轉月	ciugniu
+頭日	doune
+許日	hene
+大後日	doughaune
+再大後日	tsedoughaue
+大前日	douyine
+再大前日	tsedouyine
+前兩日	yiliaegni
+卬你
+旁日	buaone
+早日初	tseonetshou
+下日	ghone
+轉日	ciune
+透日	thaune
+透長日	thaucine
+五更	ngkiae
+昢旦
+天光早
+日晝邊	necioupi
+早日晝	tseoneciou
+日晝陣	necioudzan
+日晝	neciou
+日晝頭	necioudou
+日晝遲	necioudzy
+上半日	yipoene
+下半日	ghopoene
+後半日	ghaupoene
+濟力下	tseileigho
+日裏	nelei
+日日黃昏	neneghashiu
+日夾星夜	nekasenyi
+落夜
+成夜
+透夜
+透長夜
+日子	netsy
+何時節
+閑時節
+盡早	zantseo
+當原初
+該下兒	kiong
+該境
+許能界	henanka
+幾能界
+濟力能界
+許下兒	heong
+前境
+當忙工夫	tuaomuaokonfeu
