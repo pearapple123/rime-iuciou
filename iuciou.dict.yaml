@@ -4,33 +4,54 @@
 # Wenzhounese - 溫州話
 # encoding: utf-8
 # 空埃 （stickytoffeepuddingwithcaramel@gmail.com)
-
 ---
 max_phrase_length: 7
 min_phrase_weight: 100
 name: iuciou
 sort: by_weight
 use_preset_vocabulary: true
-version: "1.10.0"
+version: "1.11.0"
 ...
 
+㮔	ciuao
 㵩	dza
+㶣	da
+㶣紅	daghon
+㼧	don
 㾎丼	hatan
+䈆	da
+䉭	li
+䉭兒
+䑩	ku
+䥛	ci
 一	i
 一	iai
+一個月日	ikaigniune
+一風	ihon
 丁	ten
+丁步	tenbeu
+丁礎	tentshy
 七	tshai
 七姑星 	tshaikusen
+七月半	tshaigniupoe
 万	ma
 万	va
 丈	ji
 三	sa
-訾	tsy
-訾奈	tsyna
+三夏	sagho
+三步倒	sabeuteo
 上	yi
+上半日	yipoene
+上水
+上河鄉	yivushi
 下	gho
 下	ho
 下	o
+下個月日	ghokaigniune
+下半世	ghopoesei
+下半日	ghopoene
+下日	ghone
+下河鄉	ghovushi
 不	fu	80%
 不	pai	20%
 丐	ha
@@ -65,7 +86,6 @@ version: "1.10.0"
 乏	gho
 乒	phen
 乓	phon
-恁界	nanka
 乖	ka
 乘	zen
 乙	iai
@@ -89,6 +109,10 @@ version: "1.10.0"
 云	yon
 互	vu
 五	ng
+五六月	nglougniu
+五日年	ngnegni
+五更	ngkiae
+五月五
 井	tsen
 些	sei
 亞	o
@@ -96,6 +120,8 @@ version: "1.10.0"
 亢	khuao
 交	kuao
 交	wao
+交生	kuaosiae
+交秋	kuaochiou
 亥	ghe
 亦	yai
 亨	hae
@@ -129,6 +155,7 @@ version: "1.10.0"
 以	yi
 仰	gni
 仰倈	gniliae
+仰天坑
 仲	jion
 件	ji
 价	ko
@@ -140,6 +167,7 @@ version: "1.10.0"
 企	tshy
 伉	khuao	50%
 伊	i
+伊利石	ileizei
 伍	ng
 伏	vu
 伏天	vuthi
@@ -165,10 +193,11 @@ version: "1.10.0"
 佑	yau
 体	thei
 佔	ci
+何	ga
 何	gha
 何	vu
-何	ga
 何乜	ghagni
+何時節
 佘	zei
 余	vu
 佛	fai
@@ -214,6 +243,7 @@ version: "1.10.0"
 俸	hon
 俾	bei
 倆	li
+倈	le
 倉	tshuao
 個	kai
 倍	bai
@@ -235,9 +265,13 @@ version: "1.10.0"
 假	ko
 假山巖	kosanga
 偉	vu
+偎	uai
+偎艚
 偏	phi
 偕	ka
 做	tsou
+做節
+做肚	tsoudeu
 停	den
 健	ji
 側	tse
@@ -250,6 +284,7 @@ version: "1.10.0"
 傀	khai
 傅	feu
 傍	buao
+傍月	buaogniu
 傑	ji
 傘	sa
 備	bei
@@ -305,12 +340,16 @@ version: "1.10.0"
 全	yu
 兩	li
 兩	liae
+兩頭春	lidouchion
 兩頭潮	liaedoujiae
 八	po
 八	puao
+八月十五	pogniuzaing
 公	kon
 六	lou
+六月六	lougniulou
 六月天	lougniuthi
+六梅	loumai
 兮	yi
 共	jiuao
 兵	pen
@@ -324,16 +363,22 @@ version: "1.10.0"
 冇	nau
 冉	yi
 再	tse
+再大前日	tsedouyine
+再大後日	tsedoughaue
 冒	meo
 冗	zon
 冠	kiu
 冤	iu
 冥	men
 冬	ton
+冬汛
+冬節
+冬節日	toncine
 冰	pen
 冱	u
 冶	yi
 冷	liae
+冷巷	liaewao
 冷春	liaechion
 冷水	liaesy
 冷清山	liaetshensa
@@ -342,6 +387,7 @@ version: "1.10.0"
 凋	tiae
 凌	len
 凍	ton
+凍石	tonzei
 凝	gnian
 几	ke
 几	ki
@@ -350,12 +396,14 @@ version: "1.10.0"
 凰	wao
 凱	khe
 凳	tan
+凳板龍	tanpaliae
 凶	shiuao
 凸	doe
 凹	uao
 出	chiu
 出	tshy
 出伏	chiuvu
+出年	chiugni
 出梅	chiumai
 函	gha
 刀	teo
@@ -363,14 +411,19 @@ version: "1.10.0"
 刃	gnian
 刃	zan
 分	fan
+分歳
+分歳燭
+分歳酒
 切	chi
 刊	khoe
 刎	van
 刑	yan
-划	va
 划	gho
+划	va
+划斗龍	ghotauliae
 列	li
 初	tshou
+初裏
 判	phoe
 刨	buao
 利	lei
@@ -390,6 +443,10 @@ version: "1.10.0"
 削	shia
 剋	khe
 前	yi
+前個月日	yikaigniune
+前兩年	yiliaegni
+前兩日	yiliaegni
+前境
 剎	sa
 剔	thei
 剖	pheo
@@ -400,6 +457,8 @@ version: "1.10.0"
 剮	ku
 副	feu
 割	kiu
+割槄
+割麥
 創	tshuao
 剿	ciae
 剿	tshuao
@@ -459,11 +518,14 @@ version: "1.10.0"
 區	au
 區	chiu
 十	zai
+十二冷月	zaingliaegniu
+十二忙月	zaingmuaogniu
 千	chi
 升	sen
 午	ng
 卉	shiu
 半	poe
+半半日日	poepoenene
 半山腰	poesaiae
 半爿月	poebagniu
 卑	pai
@@ -480,6 +542,8 @@ version: "1.10.0"
 占	ci
 卡	kha
 卦	ko
+卬	nguao
+卬你
 卯	muao
 印	ian
 危	gniu
@@ -496,8 +560,8 @@ version: "1.10.0"
 厂	tshe
 厄	a
 厘	lei
-厚	ghau
 厚	gau
+厚	ghau
 厝	tsho
 原	gniu
 厥	ciu
@@ -517,6 +581,7 @@ version: "1.10.0"
 友	yau
 反	fa
 反	pa
+反藤	padan
 叔	shiou
 取	tshy
 受	you
@@ -525,6 +590,7 @@ version: "1.10.0"
 叢	zon
 口	khau
 古	ku
+古原先
 句	ciu
 句	kau
 另	len
@@ -552,9 +618,12 @@ version: "1.10.0"
 吆	iae
 合	ghoe
 合	kiu
+合網	kiumuao
 吉	ciai
 吊	tiae
+吊網
 同	don
+同有灰	donyaufai
 名	men
 后	ghau
 吏	lei
@@ -569,14 +638,15 @@ version: "1.10.0"
 吠	vei
 否	feo
 吩	fan
+含	gan
 含	ghan
 含	ghoe
-含	gan
 吭	wao
 吮	yon
 吳	ng
 吵	tshuao
 吸	shiai
+吸鐵石	shiaithizei
 吹	tshy
 吻	van
 吼	hau
@@ -691,6 +761,7 @@ version: "1.10.0"
 嘉	ko
 嘔	au
 嘗	yi
+嘗新	yisan
 嘛	mo
 嘩	gho
 嘩	ho
@@ -742,6 +813,7 @@ version: "1.10.0"
 園讀	yudou
 圓	yu
 圖	deu
+圖書石	deusyzei
 團	doe
 圜	va
 土	theu
@@ -750,6 +822,7 @@ version: "1.10.0"
 圭	ciu
 地	dei
 地塥	deika
+地界	deika
 地脈	deima
 圳	cion
 圾	jiai
@@ -757,6 +830,7 @@ version: "1.10.0"
 均	cion
 坊	huao
 坌	ban
+坌塵	bandzan
 坍	tha
 坎	khoe
 坏	va
@@ -771,6 +845,7 @@ version: "1.10.0"
 坯	phai
 坳	uao
 坷	khu
+坺	bai
 坼	tsha
 垂	dzy
 垃	la
@@ -789,6 +864,7 @@ version: "1.10.0"
 埋	ma
 埋	mo
 城	zen
+城基	zentsy
 埒	le
 埔	phu
 域	yu
@@ -796,6 +872,7 @@ version: "1.10.0"
 埤	bei
 埭	da
 埭	de
+埳	khan
 執	tsai
 培	bai
 基	tsy
@@ -824,18 +901,22 @@ version: "1.10.0"
 塗	deu
 塗園	deuyu
 塗坦	deuda
+塗泥	deugni
 塗田	deudi
 塘	duao
 塘河	duaovu
 塞	se
 塢	vu
 填	di
+塳	bon
+塳塵	bondzan
 塵	dzan
 塾	you
 境	cian
 墅	zy
 墈	khoe
 墊	di
+墊欄
 墓	mo
 墓	mu
 墜	dzy
@@ -848,10 +929,17 @@ version: "1.10.0"
 墾	khan
 壁	pi
 壅	iuao
+壅力
+壅土
+壅本
+壅桶
+壅田
 壇	da
 壋	tuao
 壑	ho
 壓	a
+壓番薯	afazei
+壓麥
 壕	gheo
 壘	lai
 壙	chiuao
@@ -879,8 +967,12 @@ version: "1.10.0"
 大	da
 大	dei
 大	dou
+大前年	douyigni
+大前日	douyine
+大後日	doughaune
 大早天	datseothi
 大旱	dayu
+大棱磗	doulanciu
 大水	dousy
 大水漫垟	dousymoeyi
 大水潮	dousyjiae
@@ -889,6 +981,7 @@ version: "1.10.0"
 大風	douhon
 大風颸	douhontshy
 天	thi
+天光早
 天色	thise
 天色冷	thiseliae
 天色熱	thisegni
@@ -1009,6 +1102,7 @@ version: "1.10.0"
 嬸	san
 孀	shiuao
 子	tsy
+子丁	tsyten
 孔	khon
 孕	yan
 字	zy
@@ -1034,10 +1128,12 @@ version: "1.10.0"
 完	yu
 宏	ghon
 宕	duao
+宕地	duaodei
 宗	tson
 官	kiu
 宙	jiou
 定	den
+定置張網
 宛	iu
 宜	gni
 宜	yi
@@ -1089,9 +1185,14 @@ version: "1.10.0"
 尊	tsoe
 尋	zan
 對	tai
+對年
+對網
 導	deo
 小	shiae
+小方棱	shiaehuaolan
 小水潮	shiaesyjiae
+小白玉	shiaebagnio
+小花罾
 少	shiae
 尖	ci
 尚	yi
@@ -1178,8 +1279,8 @@ version: "1.10.0"
 峰	hon
 島	teo
 峻	shion
-峽	ka
 峽	ga
+峽	ka
 崁	khoe
 崆	khon
 崇	zon
@@ -1218,8 +1319,10 @@ version: "1.10.0"
 巡	yon
 巢	zuao
 工	kon
+工夫	konfeu
 左	tsou
 巧	khuao
+巧食	khuaozei
 巨	jiu
 巫	vu
 差	tsha
@@ -1231,9 +1334,12 @@ version: "1.10.0"
 巴	bo
 巴	po
 巷	wao
+巷口頭兒	waokhaudoung
+巷弄	waolon
 巾	cian
 市	zy
 布	peu
+布龍	peuliae
 帆	va
 希	sy
 帖	thi
@@ -1262,7 +1368,12 @@ version: "1.10.0"
 干	kiu
 平	ben
 平地	bendei
+平瓦	benngo
 年	gni
+年加年
+年底
+年甲
+年終節到
 幸	ghae
 幹	kiu
 幻	va
@@ -1272,6 +1383,8 @@ version: "1.10.0"
 幾	ki
 幾	tsy
 幾倈	kiliae
+幾磗	kiciu
+幾能界
 广	kuao
 庇	pei
 床	yuao
@@ -1301,6 +1414,7 @@ version: "1.10.0"
 廠	tshe
 廢	fei
 廣	kuao
+廣䈆
 廬	leu
 廳	then
 延	yi
@@ -1319,6 +1433,8 @@ version: "1.10.0"
 弧	vu
 弱	ya
 張	ci
+張網
+張藏魚	cizuaongeu
 弼	bi
 彀	kau
 彈	da
@@ -1342,6 +1458,8 @@ version: "1.10.0"
 徊	vai
 律	li
 後	ghau
+後半日	ghaupoene
+後見煞
 徐	zei
 徑	cian
 徒	deu
@@ -1350,8 +1468,8 @@ version: "1.10.0"
 得	tei
 徘	bai
 徙	sy
-徛	gi
 徛	ge
+徛	gi
 從	tshon
 從	yuao
 御	gniu
@@ -1378,6 +1496,9 @@ version: "1.10.0"
 快	kha
 忱	dzan
 念	gni
+念九黃昏	gniciaughashiu
+念四夜
+念裏
 忽	shiu
 忿	van
 怎	tso
@@ -1394,6 +1515,7 @@ version: "1.10.0"
 怯	chi
 怯	cia
 恁	nan
+恁界	nanka
 恃	zy
 恍	huao
 恐	chiuao
@@ -1430,6 +1552,7 @@ version: "1.10.0"
 惠	vu
 惡	o
 惡	vu
+惡坑
 惰	dou
 惱	neo
 想	shi
@@ -1479,7 +1602,6 @@ version: "1.10.0"
 憔	yae
 憤	van
 憨	hoe
-倈	le
 憫	men
 憲	shi
 憶	i
@@ -1493,8 +1615,8 @@ version: "1.10.0"
 懦	nou
 懲	dzen
 懵	mon
-懷	va
 懷	ga
+懷	va
 懸	shiu
 懸	yu
 懺	tsha
@@ -1507,6 +1629,8 @@ version: "1.10.0"
 戍	sy
 戎	zon
 成	zen
+成世
+成夜
 我	ng  50%
 我倈	ngle
 戒	ka
@@ -1523,8 +1647,12 @@ version: "1.10.0"
 房	wao
 所	so
 扁	pi
+扁擔
+扁擔釘
 扇	shi
 手	shiou
+手約
+手網
 才	dze
 才	ze
 扑	pho
@@ -1532,6 +1660,11 @@ version: "1.10.0"
 扑	phu
 扒	bo
 打	tiae
+打㮔
+打坎
+打底壅
+打拳車	tiaejiutshei
+打槄
 打風	tiaehon
 扔	len
 托	tho
@@ -1541,9 +1674,11 @@ version: "1.10.0"
 扮	pa
 扯	tshei
 扳	pa
+扳罾
 扶	veu
 扶	vu
 批	phei
+批刀灰	pheiteofai
 扼	a
 找	tsuao
 承	zen
@@ -1557,6 +1692,8 @@ version: "1.10.0"
 抗	khuao
 折	ci
 折	yi
+抛	phuao
+抛矴張網
 披	phei
 抬	de
 抱	beo
@@ -1565,6 +1702,7 @@ version: "1.10.0"
 押	a
 抽	chiou
 拂	fai
+拂田
 拄	tsy
 拆	tsha
 拇	mu
@@ -1580,6 +1718,11 @@ version: "1.10.0"
 拕	da
 拖	tha
 拖	thou
+拖田	thadi
+拖網	thoumuao
+拖繩	thazen
+拖蝦	thouho
+拖風	thouhon
 拗	uao
 拘	ciu
 拙	ciu
@@ -1587,6 +1730,7 @@ version: "1.10.0"
 拚	phoe
 招	ciae
 拜	pa
+拜年客
 括	ko
 拭	sei
 拯	tsen
@@ -1597,6 +1741,7 @@ version: "1.10.0"
 拷	kheo
 拼	phen
 拼	phoe
+拼網	phenmuao
 拾	zai
 拿	na
 持	dzy
@@ -1615,8 +1760,8 @@ version: "1.10.0"
 挼	nai
 挽	ma
 挽	va
-挾	yi
 挾	ga
+挾	yi
 捅	thon
 捆	khan
 捉	cio
@@ -1652,6 +1797,7 @@ version: "1.10.0"
 採	tshe
 探	thoe
 接	ci
+接力壅
 控	khon
 推	thai
 掩	i
@@ -1662,7 +1808,10 @@ version: "1.10.0"
 揍	tsau
 描	biae
 提	dei
+提藤
 插	tsha
+插田
+插網
 揖	iai
 揚	yi
 換	va
@@ -1682,7 +1831,11 @@ version: "1.10.0"
 搓	tshou
 搔	seo
 搗	teo
+搗杵
+搗臼
 搜	sau
+搝	chiau
+搝海
 搞	keo
 搡	suao
 搣	mi
@@ -1693,12 +1846,18 @@ version: "1.10.0"
 搵	uan
 搶	chi
 搽	dzo
+搽掃
 搽掃星	dzoseosen
+搽掃腳
 搽掃雲	dzoseoyon
 摔	sai
 摘	tei
 摘	tsa
 摜	ga
+摜槄
+摝	leu
+摝田
+摝耙
 摞	lou
 摟	lau
 摧	dzai
@@ -1707,8 +1866,8 @@ version: "1.10.0"
 摩	mo
 摩	mu
 摯	tsy
-摳	khau
 摳	gau
+摳	khau
 摸	mo
 摺	ci
 撇	phi
@@ -1718,6 +1877,9 @@ version: "1.10.0"
 撕	sy
 撙	tsoe
 撞	jiuao
+撣	ta
+撣帚
+撣新
 撤	ji
 撥	poe
 撩	liae
@@ -1740,10 +1902,12 @@ version: "1.10.0"
 擇	dza
 擊	ciai
 擋	tuao
+擋拄
 操	tsheo
 擎	jian
 擒	jian
 擔	ta
+擔擔
 擘	pa
 擘	pha
 據	ciu
@@ -1752,8 +1916,8 @@ version: "1.10.0"
 擢	jio
 擦	tsha
 擬	gni
-擱	ko
 擱	go
+擱	ko
 擲	dzei
 擲	ji
 擴	khuao
@@ -1762,7 +1926,11 @@ version: "1.10.0"
 攀	pha
 攆	gni
 攏	lon
+攏殼
+攏殼船
 攔	la
+攔約
+攔街福
 攘	yi
 攙	tsha
 攝	sei
@@ -1773,6 +1941,7 @@ version: "1.10.0"
 攬	la
 支	tsei
 收	shiou
+收香
 改	ke
 攻	kon
 放	huao
@@ -1781,18 +1950,22 @@ version: "1.10.0"
 效	wao
 敏	men
 救	ciau
+敒	chion
 敖	ngeo
 敗	ba
 教	kuao
+教拖	kuaotha
 敝	bei
 敞	chi
 敢	kiu
 散	sa
+散河
 敦	tan
 敦	toe
 敨	thau
 敬	cian
 敲	khuao
+敲䑩
 整	tsen
 敵	di
 敷	fu
@@ -1819,6 +1992,7 @@ version: "1.10.0"
 斯	sy
 新	san
 新	sen
+新年酒	sangniciou
 斷	dan
 斷	doe
 斷	toe
@@ -1827,6 +2001,7 @@ version: "1.10.0"
 施	sei
 施	sy
 旁	buao
+旁日	buaone
 旅	leu
 旋	yu
 族	you
@@ -1836,11 +2011,23 @@ version: "1.10.0"
 日	gniai
 日	ne
 日	zai
+日夾星夜	nekasenyi
+日子	netsy
+日日黃昏	neneghashiu
+日晝	neciou
+日晝遲	necioudzy
+日晝邊	necioupi
+日晝陣	necioudzan
+日晝頭	necioudou
 日暈	neyon
+日裏	nelei
 旦	ta
 旨	tsy
 早	tseo
+早日初	tseonetshou
+早日晝	tseoneciou
 早梅	tseomai
+早槄熟
 旬	yon
 旱	yu
 旺	wao
@@ -1850,6 +2037,7 @@ version: "1.10.0"
 昌	chi
 明	man
 明	men
+明年	mangni
 昏	fan
 昏	shiu
 易	yai
@@ -1859,7 +2047,12 @@ version: "1.10.0"
 星光月亮	senkuaogniuli
 星過渡	senkudeu
 映	ian
+昢	bai
+昢旦
 春	chion
+春三八九	chionsapociau
+春汛
+春裏	chionlei
 昧	mai
 昨	zo
 昭	ciae
@@ -1871,6 +2064,7 @@ version: "1.10.0"
 晏	ae
 晚	ma
 晚	va
+晚槄熟	madeoyou
 晝	ciou
 晦	fai
 晨	zan
@@ -1903,10 +2097,11 @@ version: "1.10.0"
 曉	shia
 曝	bo
 曝	bu
-曠	khuao
 曠	guao
+曠	khuao
 曩	nuao
 曬	sa
+曬殼坦	sakhoda
 曰	iae
 曲	chio
 更	ka
@@ -1929,16 +2124,20 @@ version: "1.10.0"
 月光佛下	gniukuaovaigho
 月光夜	gniukuaoyi
 月光影	gniukuaoian
+月加月	gniukogniu
+月日	gniune
 月暈	gniuyon
 有	yau
 朋	bon
 服	vu
 朔	shio
 朗	luao
+朗眼篰
 望	muao
 望	wao
 朝	ciae
 朝	jiae
+朝世	ciaesei
 期	dzy
 期	tsy
 朦	mon
@@ -1976,6 +2175,7 @@ version: "1.10.0"
 松	son
 松	yuao
 板	pa
+板橋我	pajiaeng
 枉	iuao
 析	sei
 枕	tsan
@@ -1985,12 +2185,11 @@ version: "1.10.0"
 枝	tsei
 枯	khu
 枵	shiae
-架	ko
 架	go
 架	guao
-枷	ko
+架	ko
 枷	go
-瑣	sai
+枷	ko
 柄	pen
 柏	pa
 某	mo
@@ -2011,6 +2210,8 @@ version: "1.10.0"
 柱	dzy
 柳	lou
 柴	za
+柴刀
+柴耙
 柿	zy
 栀	tsei
 栓	soe
@@ -2066,6 +2267,7 @@ version: "1.10.0"
 棍	kan
 棒	buao
 棕	tson
+棕掃
 棗	tseo
 棘	ciai
 棚	biae
@@ -2073,6 +2275,8 @@ version: "1.10.0"
 棟	ton
 棧	dza
 森	san
+棱	lan
+棱㼧	landon
 棲	tshei
 棵	khu
 棹	dzuao
@@ -2092,6 +2296,8 @@ version: "1.10.0"
 楝	li
 楞	lan
 楣	mei
+楤	cion
+楤擔
 楦	shiu
 業	gni
 極	dzy
@@ -2112,6 +2318,7 @@ version: "1.10.0"
 榷	kho
 榷	ko
 榻	tha
+槄	deo
 構	kau
 槌	dzy
 槍	chi
@@ -2125,6 +2332,7 @@ version: "1.10.0"
 樂	nguao
 樊	va
 樓	lau
+樓亭	lauden
 標	piae
 樞	chiu
 樟	ci
@@ -2138,24 +2346,31 @@ version: "1.10.0"
 樸	pho
 樸	phu
 樹	zy
+樹扁擔
+樹礱
 橄	kiu
 橈	nuao
 橈	yae
 橋	jiae
+橋基	jiaetsy
+橋屋	jiaevu
+橋間	jiaeka
 橘	ciai
 橙	dzen
 橙	dziae
-橛	jiu
 橛	giu
+橛	jiu
 機	tsy
 橡	yi
 橫	viae
 橫柯	viaekhu
+橫欄兒
 橫瀆	viaedou
 檀	da
 檐	yi
 檐頭水	yidousy
 檔	tuao
+檔龍	tuaoliae
 檗	pa
 檜	kai
 檢	ci
@@ -2185,11 +2400,17 @@ version: "1.10.0"
 歡	shiu
 止	tsy
 正	tsen
+正月正頭	tsengniutsendou
+正月頭	tsengniudou
+正租
 此	tshy
 步	beu
 武	vu
+歩	beu
 歪	va
 歲	sy
+歳	sy
+歳燈
 歷	lei
 歸	ciu
 歸	kai
@@ -2210,7 +2431,11 @@ version: "1.10.0"
 殷	a
 殷	ian
 殺	sa
+殻	kho
+殻子板	khotsypa
 殼	kho
+殼囤
+殼耙
 殿	di
 毅	gni
 毆	au
@@ -2218,6 +2443,7 @@ version: "1.10.0"
 母	mu
 母	ng
 每	mai
+每個月日	maikaigniune
 毒	dau
 毒	dou
 比	bei
@@ -2239,9 +2465,13 @@ version: "1.10.0"
 水溝清	sykautshen
 水漈	sytsei
 水潭	sydoe
+水碓
 水脈	syma
+水車	sytshei
+水門汀	symanthen
 永	ion
 永	yon
+永嘉場	yonkoji
 汀	then
 汁	tsai
 求	jiau
@@ -2251,11 +2481,13 @@ version: "1.10.0"
 汏浪	daluao
 汕	sa
 汗	yu
+汛	san
 汝	zy
 汞	kon
 江	kuao
 池	dei
 池	dzei
+污	vu
 汪	uao
 汰	tha
 汲	ciai
@@ -2273,13 +2505,17 @@ version: "1.10.0"
 沌	doe
 沐	mo
 沐	mu
+沓	doe
+沓壅
 沙	so
 沙地	sodei
+沙灘	sotha
 沛	phai
 沫	moe
 沱	dou
 河	vu
 河埭	vude
+河泥	vugni
 河灘	vutha
 河磡	vukhoe
 河股	vuku
@@ -2314,6 +2550,10 @@ version: "1.10.0"
 波	pu
 泣	chiai
 泥	gni
+泥坺	gnibai
+泥粉	gnifan
+泥膠	gnikuao
+泥鍬
 注	tsy
 泯	men
 泰	tha
@@ -2321,11 +2561,16 @@ version: "1.10.0"
 泳	yon
 泵	puao
 洋	yi
+洋油	yiyau
+洋漆	yitshai
+洋蜜	yumi
+洋蠟	yila
 洒	sa
 洒	so
 洗	sei
 洛	lo
 洞	don
+洞橋	donjiae
 津	tsan
 洪	ghon
 洲	ciou
@@ -2336,6 +2581,7 @@ version: "1.10.0"
 流	lou
 流拕	louda
 流皮	loubei
+流網
 浙	tsei
 浜	piae
 浦	pheu
@@ -2386,15 +2632,17 @@ version: "1.10.0"
 淺	chi
 添	thi
 清	tshen
+清明餅兒	tshenmenpenng
 清水	tshensy
 清水坑	tshensykhiae
+清油	tshenyau
 渙	shiu
 渚	dzy
 減	ka
 渝	vu
-渠	jiu
 渠	gi
 渠	giae
+渠	jiu
 渡	deu
 渣	tso
 渤	boe
@@ -2406,6 +2654,8 @@ version: "1.10.0"
 港	kuao
 渲	shiu
 渴	khoe
+游	jiau
+游網
 渺	miae
 渾	van
 湃	pa
@@ -2448,6 +2698,8 @@ version: "1.10.0"
 滴	tei
 滸	fu
 滹	fu
+滾	kan
+滾龍	kanliae
 滿	moe
 漁	ngeu
 漂	phiae
@@ -2475,6 +2727,7 @@ version: "1.10.0"
 潒河	yivu
 潒河雲	yivuyon
 潒界	yika
+潒頭下	yidougho
 潔	ci
 潘	phoe
 潛	yi
@@ -2489,8 +2742,8 @@ version: "1.10.0"
 潮漲	jiaeci
 潮落	jiaelo
 潮駕	jiaeko
-潰	vai
 潰	gai
+潰	vai
 潲	suao
 潷	pi
 潸	sa
@@ -2500,6 +2753,7 @@ version: "1.10.0"
 澄	den
 澄	dzen
 澆	ciae
+澆鋼	ciaekuao
 澇	leo
 澡	tseo
 澤	dza
@@ -2516,6 +2770,8 @@ version: "1.10.0"
 濘風天	gnianhonthi
 濛	mon
 濟	tsei
+濟力下	tseileigho
+濟力能界
 濤	deo
 濫	la
 濫冬	laton
@@ -2540,6 +2796,9 @@ version: "1.10.0"
 灘	tha
 灣	va
 火	fu
+火泥	fugni
+火管巷	fukanwao
+火酒	fuciou
 灰	fai
 灸	ciau
 灼	cia
@@ -2560,6 +2819,7 @@ version: "1.10.0"
 烊	yi
 烏	vu
 烏焦雷	vuciaelai
+烏賊拖兒	uzethang
 烏雲	vuyon
 烏雲斑	vuyonpa
 烘	hon
@@ -2568,6 +2828,9 @@ version: "1.10.0"
 烹	phiae
 焉	i
 焉	yi
+焊	yu
+焊藥	yuya
+焊錫	yusei
 焌	chiu
 焙	bai
 焚	van
@@ -2582,10 +2845,13 @@ version: "1.10.0"
 煌	wao
 煎	ci
 煙	i
+煝	mai
+煝火泥
 煞	sa
 煠	dza
 煠	za
 煤	mai
+煤粉	maifan
 煥	shiu
 照	ciae
 煨	vai
@@ -2611,10 +2877,12 @@ version: "1.10.0"
 燈	tan
 燎	liae
 燒	shiae
+燒碱	shiaeka
 燕	i
 燙	thuao
 營	yon
 燥	seo
+燥灰	seofai
 燥風天	seohonthi
 燦	tsha
 燭	cio
@@ -2629,6 +2897,11 @@ version: "1.10.0"
 爛埉地	lakadei
 爛埉池丼	lakadzeitan
 爛埉池汁	lakadeitsai
+爛污泥	lavugni
+爛污泥汁	lavugnitsai
+爛污泥沙	lavugniso
+爛污泥粉	lavugnifan
+爛腳瘟
 爛蕻田	lahondi
 爛頭山	ladousa
 爪	tsuao
@@ -2646,6 +2919,7 @@ version: "1.10.0"
 爿	ba
 牆	yi
 片	phi
+片石	phizei
 版	pa
 牌	ba
 牒	di
@@ -2653,6 +2927,9 @@ version: "1.10.0"
 牙	ngo
 牚	tshiae
 牛	ngau
+牛敒鼻
+牛繩
+牛軛
 牡	meo
 牢	leo
 牧	mo
@@ -2666,6 +2943,13 @@ version: "1.10.0"
 牽	chi
 犀	sei
 犁	lei
+犁壁
+犁尖
+犁掇
+犁田
+犁盤繩
+犁行盤	leighaeboe
+犁頭
 犒	kheo
 犢	dou
 犧	sy
@@ -2679,6 +2963,7 @@ version: "1.10.0"
 狎	gha
 狐	vu
 狗	kau
+狗頭圈
 狠	han
 狡	ka
 狡	kuao
@@ -2742,7 +3027,10 @@ version: "1.10.0"
 瑚	vu
 瑞	zy
 瑟	sai
+瑣	sai
 瑣	so
+瑣月	saigniu
+瑣路	soleu
 瑣風	sohon
 瑩	yan
 瑩	yon
@@ -2751,8 +3039,8 @@ version: "1.10.0"
 瑰	kai
 璃	lei
 璧	pi
-環	va
 環	ga
+環	va
 璽	sei
 瓊	jion
 瓜	ko
@@ -2762,6 +3050,8 @@ version: "1.10.0"
 瓤	shi
 瓦	ngo
 瓦檐渧水	ngoyiteisy
+瓦礫爿兒	ngoleibang
+瓦礫爿鋒	ngoleibahon
 瓶	ben
 瓷	zy
 甑	tsen
@@ -2779,6 +3069,8 @@ version: "1.10.0"
 田垟	diyi
 田岸	diyu
 田瀆	didou
+田皮
+田頭礧兒
 田骨	dikiu
 田齾	dinga
 由	yau
@@ -2800,10 +3092,14 @@ version: "1.10.0"
 畦	yi
 番	fa
 番	phoe
+番人油	fagnianyau
 畫	gho
 畫	va
 異	yi
 當	tuao
+當原初
+當忙工夫	tuaomuaokonfeu
+當路	tuaoleu
 疃	thoe
 疆	ci
 疏	sou
@@ -2850,13 +3146,13 @@ version: "1.10.0"
 瘤	lou
 瘦	sau
 瘩	ta
-搝	chiau
 瘰	lai
 瘴	ci
 瘸	jiu
 療	liae
 癆	leo
 癌	nga
+癐	vai
 癖	phi
 癡	tshy
 癤	ci
@@ -2870,9 +3166,15 @@ version: "1.10.0"
 發	ho
 發幔	homoe
 白	ba
+白玉	bagnio
+白瓷泥	bazygni
 白田	badi
 白眼	banga
+白膠	bakuao
+白鉛	bakha
+白鐵皮	bathibei
 白雨	bavu
+白露	balau
 百	pa
 皂	zeo
 的	tei
@@ -2899,6 +3201,7 @@ version: "1.10.0"
 盞	tsa
 盟	men
 盡	zan
+盡早	zantseo
 監	ka
 盤	boe
 盧	leu
@@ -2967,9 +3270,15 @@ version: "1.10.0"
 矯	ciae
 石	ta
 石	zei
+石子沙	zeitsyso
 石板	zeipa
+石板卵卵	zeipalanlan
+石板橋	zeipajiae
 石條兒	zeidiaeng
+石灰鈣	zeifaikhoe
+石頭子兒	zeidoutsyng
 石頭𣎴	zeidougoe
+矴	ten
 矽	ciu
 砂	so
 砌	tshei
@@ -2986,6 +3295,7 @@ version: "1.10.0"
 砸	tsa
 硃	tsy
 硝	shiae
+硝鏹	shiaeji
 硫	lou
 硬	ngiae
 硬穀雨	ngiaekuvu
@@ -3004,6 +3314,8 @@ version: "1.10.0"
 碩	zei
 碰	biae
 碰	phon
+碱	ka
+碱死	kasy
 碳	tha
 確	kho
 碼	mo
@@ -3014,22 +3326,33 @@ version: "1.10.0"
 磊	lai
 磐	boe
 磕	khai
+磗	ciu
+磗坯	ciuphai
+磗𣎴	ciugoe
 磚	ciu
 磡	khoe
 磧	tsei
 磨	meu
+磨帶
+磨手
+磨爿	meuba
 磬	chian
 磯	tsy
 磷	len
 礁	ciae
+礌	lai
 礎	tshou
 礎	tshy
 礙	nge
 礤	tsha
 礦	khuao
+礧	lai
 礫	lei
 礬	va
+礬泥	vagni
 礱	lon
+礱丸
+礱心
 示	zy
 社	zei
 祀	zy
@@ -3058,6 +3381,7 @@ version: "1.10.0"
 私	sy
 秉	pen
 秋	chiou
+秋裏	chioulei
 秋霖	chioulen
 种	ciuao
 科	khu
@@ -3080,13 +3404,19 @@ version: "1.10.0"
 稚	dzy
 稠	jiou
 種	ciuao
+種山
 稱	tshen
 稷	tsei
 稻	deo
+稻䥛
+稻桶拔
+稻桶梯
+稻稈人兒	deokiuniaeng
 稼	ko
 稽	tsy
 稿	keo
 穀	ku
+穀雨	kuvu
 穄	tsei
 穆	mo
 穆	mu
@@ -3114,6 +3444,7 @@ version: "1.10.0"
 窨	ian
 窩	vu
 窮	jion
+窰	jiae
 窺	chiu
 窿	lon
 竄	tshoe
@@ -3121,6 +3452,7 @@ version: "1.10.0"
 竇	dau
 立	lei
 立	li
+立鿍	leikuao
 立鿍	likuao
 站	dza
 竟	cian
@@ -3131,6 +3463,8 @@ version: "1.10.0"
 端	toe
 競	jian
 竹	ciou
+竹扁擔兒
+竹礱
 竿	kiu
 笆	po
 笊	tsuao
@@ -3174,6 +3508,9 @@ version: "1.10.0"
 箱	shi
 箸	dzei
 節	ci
+節到
+節到節市
+節日頭	cinedou
 範	va
 篆	jiu
 篇	phi
@@ -3184,11 +3521,14 @@ version: "1.10.0"
 篦	bei
 篩	sa
 篩	sy
+篰	beu
 篷	bon
 篾	mi
 簇	tshou
 簍	lau
 簟	di
+簟籮
+簟籮兒
 簡	ka
 簧	wao
 簪	tsoe
@@ -3209,11 +3549,13 @@ version: "1.10.0"
 籮	lou
 籲	vu
 米	mei
+米篩	meisy
 籽	tsy
 粉	fan
 粒	loe
 粕	pho
 粗	tsheu
+粗事
 粗水	tsheusy
 粗石	tsheuzei
 粘	gni
@@ -3234,6 +3576,9 @@ version: "1.10.0"
 糜	mei
 糞	fan
 糞	pan
+糞掃	panseo
+糞掃垛	panseoto
+糞斗	pantau
 糟	tseo
 糠	khuao
 糧	li
@@ -3252,6 +3597,7 @@ version: "1.10.0"
 紂	jiou
 約	ia
 紅	ghon
+紅磗	ghonciu
 紈	yu
 紉	zan
 紊	van
@@ -3260,8 +3606,10 @@ version: "1.10.0"
 紐	gniau
 純	yon
 純	zon
+純碱	zonka
 紗	so
 紙	tsei
+紙山	tseisa
 級	ciai
 紛	fan
 素	seu
@@ -3273,6 +3621,7 @@ version: "1.10.0"
 累	lei
 細	sai
 細	sei
+細蠣灰	saileifai
 紹	yae
 紿	de
 終	cion
@@ -3304,6 +3653,16 @@ version: "1.10.0"
 綰	ua
 綱	kuao
 網	muao
+網地
+網墜
+網桶
+網泛
+網爿
+網綫
+網綱
+網腳
+網艚
+網衣
 綴	ciu
 綴	tsy
 綸	ka
@@ -3398,9 +3757,11 @@ version: "1.10.0"
 翹	chiae
 翹	jiae
 翻	fa
+翻田
 翼	yai
 耀	yae
 老	leo
+老人亭	leognianden
 老鼠梯兒	leotsheitheing
 考	kheo
 者	tse
@@ -3409,8 +3770,14 @@ version: "1.10.0"
 耐	ne
 耐	nge
 耕	kiae
+耕藤
+耖	tshuao
+耖田
 耗	heo
 耘	yon
+耘田
+耙	bo
+耙豬沙
 耩	kuao
 耬	lau
 耳	ng
@@ -3439,7 +3806,6 @@ version: "1.10.0"
 肆	sy
 肇	jiae
 肉	gniou
-游	jiau
 肋	le
 肌	tsy
 肖	shiae
@@ -3533,10 +3899,14 @@ version: "1.10.0"
 臊	seo
 臍	zei
 臘	la
+臘石	lazei
+臘貨
 臣	dzan
 臥	ng
 臨	len
+臨時邊兒	lenzyping
 自	zy
+自耕清業	zykiaetshengni
 臭	chiou
 臭	shiau
 至	tsy
@@ -3544,6 +3914,8 @@ version: "1.10.0"
 臺	de
 臻	tsan
 臼	jiau
+臿	tsha
+臿米
 舀	iae
 舁	vu
 舂	shion
@@ -3573,6 +3945,7 @@ version: "1.10.0"
 艇	then
 艘	sau
 艙	tshuao
+艚	zeo
 艦	kha
 艮	kiu
 良	li
@@ -3618,6 +3991,8 @@ version: "1.10.0"
 茄	dzy
 茄	kha
 茅	muao
+茅坑
+茅根索	muaokiuso
 茉	moe
 茫	muao
 茬	dzo
@@ -3630,12 +4005,14 @@ version: "1.10.0"
 荀	shion
 草	tsheo
 草坦	tsheoda
+草頭
 荐	ci
 荒	huao
+荒年
 荔	lei
 荷	fu
-荷	vu
 荷	ga
+荷	vu
 莆	bu
 莉	lei
 莊	ciuao
@@ -3675,7 +4052,9 @@ version: "1.10.0"
 萬丈深潭	majisandoe
 萵	vu
 落	lo
+落來	lole
 落地雷	lodeilai
+落夜
 落雨	lovu
 落雨天	lovuthi
 落雪天	loshiuthi
@@ -3756,6 +4135,7 @@ version: "1.10.0"
 藍	la
 藏	tsuao
 藏	zuao
+藏魚罾	zuaongeutsan
 藐	miae
 藕	ngau
 藝	gni
@@ -3778,6 +4158,7 @@ version: "1.10.0"
 虐	gnia
 虔	ji
 處	tshy
+處暑	tshysy
 虜	lou
 虞	gniu
 號	gheo
@@ -3836,7 +4217,6 @@ version: "1.10.0"
 蝮	fu
 蝴	vu
 蝶	di
-偎	uai
 蝸	vu
 螂	luao
 螃	buao
@@ -3857,6 +4237,7 @@ version: "1.10.0"
 蟲	jion
 蟶	tshen
 蟹	ha
+蟹巾
 蟹眼桶	hangadon
 蟻	gni
 蟻	nga
@@ -3869,10 +4250,17 @@ version: "1.10.0"
 蠖	gho
 蠟	la
 蠢	chion
+蠣	lei
+蠣灰壇	leifaida
+蠣灰殻	leifaikho
+蠣灰水	leifaisy
+蠣灰窰	leifaiyae
 蠱	ku
 蠻	ma
 蠻湯	mathuao
 血	shiu
+衆	cion
+衆田
 行	ghae
 行	wao
 衍	yi
@@ -3952,10 +4340,11 @@ version: "1.10.0"
 覺	kuao
 覽	la
 觀	kiu
+觀音掃
 角	ko
+解	ga
 解	gha
 解	ka
-解	ga
 觸	chio
 言	gni
 訂	ten
@@ -3976,10 +4365,15 @@ version: "1.10.0"
 許	he
 許	hi
 許	shiu
+許下兒	heong
 許倈	shiuliae
+許日	hene
+許能界	henanka
 訴	seu
 診	tsan
 註	tsy
+訾	tsy
+訾奈	tsyna
 訾那	tsyna
 詐	tso
 詔	ciae
@@ -3993,7 +4387,11 @@ version: "1.10.0"
 話	gho
 該	ke
 該	ki
+該下兒	kiong
+該倈	kile
 該倈	kiliae
+該個月日	kikaigniune
+該境
 詳	yi
 詹	ci
 詼	fai
@@ -4040,6 +4438,7 @@ version: "1.10.0"
 謙	chi
 講	kuao
 謝	zei
+謝年
 謬	miae
 謳	au
 謹	cian
@@ -4052,7 +4451,6 @@ version: "1.10.0"
 警	cian
 譬	phei
 譯	yai
-艚	zeo
 議	gni
 譴	chi
 護	vu
@@ -4082,6 +4480,7 @@ version: "1.10.0"
 豪	gheo
 豫	vu
 豬	tsei
+豬沙
 豹	puao
 豺	za
 貂	tiae
@@ -4113,7 +4512,6 @@ version: "1.10.0"
 賂	leu
 賂	lo
 賃	zan
-䑩	ku
 賄	fai
 資	tsy
 賈	ko
@@ -4170,9 +4568,9 @@ version: "1.10.0"
 跑	buao
 跑	phuao
 跔	ciau
-跔	jiau
 跔	gau
 跔	gu
+跔	jiau
 跗	fu
 跛	pu
 距	jiu
@@ -4182,9 +4580,15 @@ version: "1.10.0"
 跨	khuao
 跪	jiu
 路	leu
+路廊	leuluao
+路心	leusan
 跳	diae
 跳	thiae
 踏	da
+踏水
+踏碓
+踏鍬
+踏馬水
 踐	yi
 踢	thei
 踩	tshe
@@ -4215,13 +4619,14 @@ version: "1.10.0"
 車	tshei
 車	tsho
 軋	a
-軋	tsa
 軋	ga
+軋	tsa
 軌	ciu
 軍	cion
 軒	shi
 軛	a
 軟	gniu
+軟簟
 軸	jiou
 較	kuao
 載	tse
@@ -4229,6 +4634,7 @@ version: "1.10.0"
 載	ze
 輔	fu
 輕	chian
+輕鉛	chiankha
 輛	li
 輜	tsy
 輝	shiu
@@ -4242,11 +4648,12 @@ version: "1.10.0"
 輸	sy
 輻	fu
 輿	vu
-矴	ten
 轄	gha
 轅	yu
 轉	ciu
+轉日	ciune
 轉暴	ciubeo
+轉月	ciugniu
 轍	ji
 轎	jiae
 轟	fiae
@@ -4269,6 +4676,7 @@ version: "1.10.0"
 迄	chiai
 迅	san
 迎	gnian
+迎燈
 近	jian
 返	fa
 迢	diae
@@ -4287,11 +4695,18 @@ version: "1.10.0"
 逆	gniai
 逍	shiae
 透	thau
+透世
+透夜
+透年
+透日	thaune
+透長夜
+透長日	thaucine
 逐	jiou
 途	deu
 逕	cian
 逗	dau
 通	thon
+通田
 逛	jiuao
 逝	zei
 逞	tshen
@@ -4313,6 +4728,8 @@ version: "1.10.0"
 遍	pi
 過	ku
 過	vu
+過年米	kugnimei
+過年飯	kugniva
 遏	oe
 遐	gho
 道	deo
@@ -4395,11 +4812,19 @@ version: "1.10.0"
 釋	sei
 里	lei
 重	jiuao
+重五節
+重五粽
+重五草
 重梅	jiuaomai
+重鉛	jiuaokha
 野	i
 野	ia
 量	li
 金	cian
+金剛鑽	ciankuaotsoe
+金漆	ciantshai
+金灰	cianfai
+金粉	cianfan
 釘	ten
 釜	fu
 針	tsan
@@ -4416,21 +4841,24 @@ version: "1.10.0"
 鈸	boe
 鉀	ka
 鉗	ji
-抛	phuao
 鉛	kha
-𦌵	lai
 鉛	yi
+鉛板	khapa
+鉛絲	khasy
 鉤	kau
 鉸	ciae
 鉸	ka
 鉸	kuao
 銀	gnian
+銀朱	gniantsy
+銀粉	gnianfan
 銃	chion
 銅	don
+銅青綠	dontshenlo
 銑	sei
 銘	men
-銜	gha
 銜	ga
+銜	gha
 銬	khau
 銱	tiae
 銷	shiae
@@ -4438,6 +4866,7 @@ version: "1.10.0"
 鋒	hon
 鋤	zou
 鋤	zy
+鋤錐	zytsy
 鋥	dziae
 鋪	pheu
 鋭	zai
@@ -4445,6 +4874,7 @@ version: "1.10.0"
 鋸	keu
 鋸	ku
 鋼	kuao
+鋼中	kuaocion
 錐	tsy
 錘	dzy
 錛	pan
@@ -4462,6 +4892,7 @@ version: "1.10.0"
 錶	piae
 鍋	ku
 鍍	deu
+鍍白	deuba
 鍘	za
 鍛	toe
 鍬	chiae
@@ -4469,6 +4900,8 @@ version: "1.10.0"
 鍾	ciuao
 鎊	buao
 鎖	so
+鎡	zy
+鎡耙
 鎬	gheo
 鎬	kau
 鎮	tsan
@@ -4480,6 +4913,7 @@ version: "1.10.0"
 鏡	cian
 鏨	zoe
 鏵	gho
+鏹	ji
 鏽	shiou
 鐃	nuao
 鐐	liae
@@ -4488,6 +4922,9 @@ version: "1.10.0"
 鐮	li
 鐲	jio
 鐵	thi
+鐵惡	thio
+鐵板	thipa
+鐵皮	thibei
 鐸	do
 鐺	tshiae
 鐺	tuao
@@ -4505,6 +4942,8 @@ version: "1.10.0"
 鑿	zoe
 長	ci
 長	ji
+長八日	jipone
+長命綫	cimenshi
 門	man
 閂	soe
 閃	shi
@@ -4514,11 +4953,17 @@ version: "1.10.0"
 開	khi
 開暴	khebeo
 開水	khesy
+開門炮	khemanphuao
 閏	yon
+閏年
 閑	gha
+閑時節
+閑月	ghagniu
 閑田	ghadi
-間	ka
 間	ho
+間	ka
+間㮔	hociuao
+間晚	kama
 閘	za
 閣	ko
 閤	kiu
@@ -4549,12 +4994,12 @@ version: "1.10.0"
 陋	lau
 陌	ma
 陌	mo
+降	guao
 降	kuao
 降	wao
 降	yi
-降	guao
-限	gha
 限	ga
+限	gha
 陛	bei
 陝	shi
 陡	tau
@@ -4569,8 +5014,8 @@ version: "1.10.0"
 陵	len
 陶	deo
 陶	yae
-陷	gha
 陷	ga
+陷	gha
 陸	lou
 陽	yi
 隅	gniu
@@ -4579,6 +5024,8 @@ version: "1.10.0"
 隊	dai
 隋	zy
 階	ka
+隑	ge
+隑士林	gezylen
 隔	ka
 隕	yon
 隘	a
@@ -4598,6 +5045,7 @@ version: "1.10.0"
 雀	cia
 雁	nga
 雄	yon
+雄黃酒	yonwaociou
 雅	ngo
 集	zai
 雇	ku
@@ -4607,6 +5055,8 @@ version: "1.10.0"
 雕	tiae
 雖	sy
 雙	shiuao
+雙插田
+雙收田
 雛	zou
 雜	zoe
 雞	tsy
@@ -4643,9 +5093,14 @@ version: "1.10.0"
 霹	phi
 靂	lei
 靈	len
+靈昆	lenkiu
 青	tshen
+青灰	tshenfai
 青田石	tshendizei
 青石	tshenzei
+青磗	tshenciu
+青紫泥	tshentsygni
+青鉛	tshenkha
 靖	zen
 非	fei
 靠	kheo
@@ -4694,6 +5149,7 @@ version: "1.10.0"
 領	len
 頭	dou
 頭伏	douvu
+頭日	doune
 頰	ka
 頸	cian
 頻	ben
@@ -4744,8 +5200,8 @@ version: "1.10.0"
 餘	vu
 餛	van
 餞	ci
-餡	gha
 餡	ga
+餡	gha
 館	kiu
 餾	lou
 餿	sau
@@ -4759,6 +5215,7 @@ version: "1.10.0"
 首	shiou
 馗	jiu
 香	shi
+香袋
 馨	shian
 馬	mo
 馮	ghon
@@ -4777,6 +5234,7 @@ version: "1.10.0"
 駱	lou
 駿	cion
 騎	dzy
+騎鼓樓	dzykulau
 騙	phi
 騰	dan
 騷	seo
@@ -4785,6 +5243,7 @@ version: "1.10.0"
 驕	ciae
 驗	gni
 驚	cian
+驚蟄	ciandzei
 驛	yai
 驟	dzau
 驢	leu
@@ -4816,8 +5275,11 @@ version: "1.10.0"
 魏	ngai
 魏	vai
 魔	meu
+魔心
 魘	i
 魚	ngeu
+魚汛
+魚袋
 魯	lou
 鮑	buao
 鮮	shi
@@ -4833,6 +5295,8 @@ version: "1.10.0"
 鰣	zy
 鰥	ka
 鰭	dzy
+鰲	ngeo
+鰲山
 鰻	moe
 鰾	biae
 鱉	pi
@@ -4867,9 +5331,13 @@ version: "1.10.0"
 鶴	ngo
 鷀	zy
 鷂	yae
+鷄	tsy
+鷄惡	tsyo
 鷄毛雲	tsymeoyon
 鷗	au
 鷹	ian
+鷹捕
+鷹捕船
 鷺	leu
 鸕	leu
 鸚	ae
@@ -4882,22 +5350,24 @@ version: "1.10.0"
 麂	tsy
 麓	lou
 麗	lei
-汛	san
-
 麝	zei
 麥	ma
+麥熟
 麩	feu
 麩	fu
 麴	chiou
 麵	mi
 麻	mo
+麻巧
 麼	mo
 麾	fai
 麾	shiu
-黃昏曉	ghashiushia
-黃泥山	waognisa
 黃	gha
 黃	wao
+黃昏曉	ghashiushia
+黃泥	waogni
+黃泥山	waognisa
+黃金灰	waocianfai
 黍	sy
 黎	lei
 黑	he
@@ -4924,11 +5394,12 @@ version: "1.10.0"
 齡	len
 齷	o
 齾	nga
-坺	bai
 龍	liae
 龍	lon
 龍光星爍	liaekuaosenshia
 龍噴水	liaephansy
+龍燈	liaetan
+龍鉛	liaekha
 龍風	liaehon
 龐	buao
 龔	ciuao
@@ -4937,420 +5408,14 @@ version: "1.10.0"
 鿍	kuao
 𠩘	ga
 𣎴	goe
+𣎴頭巷	goedouwao
+𣎴頭路	goedouleu
+𦌵	lai
+𦌵網
+𦌵網船
 𧟰	fai
 𩗯風	uaihon
 𫶝	nga
-污	vu
-磗	ciu
-棱	lan
-碱	ka
-鏹	ji
-殻	kho
-歩	beu
-焊	yu
-蠣	lei
-塳	bon
-㼧	don
-癐	vai
-窰	jiae
-隑	ge
-埳	khan
-撣	ta
-歳	sy
-㶣	da
-滾	kan
-鰲	ngeo
-卬	nguao
-昢	bai
-煝	mai
-摝	leu
-耖	tshuao
-衆	cion
-沓	doe
-耙	bo
-鷄	tsy
-㮔	ciuao
-槄	deo
-臿	tsha
-片石	phizei
-凍石	tonzei
-臘石	lazei
-圖書石	deusyzei
-伊利石	ileizei
-石頭子兒	zeidoutsyng
-石板卵卵	zeipalanlan
-沙灘	sotha
-石子沙	zeitsyso
-爛污泥沙	lavugniso
-磗坯	ciuphai
-幾磗	kiciu
-紅磗	ghonciu
-青磗	tshenciu
-大棱磗	doulanciu
-磗𣎴	ciugoe
-平瓦	benngo
-瓦礫爿兒	ngoleibang
-坌塵	bandzan
-小白玉	shiaebagnio
-爛污泥	lavugni
-爛污泥汁	lavugnitsai
-塗泥	deugni
-河泥	vugni
-泥坺	gnibai
-黃泥	waogni
-青紫泥	tshentsygni
-白瓷泥	bazygni
-泥粉	gnifan
-爛污泥粉	lavugnifan
-吸鐵石	shiaithizei
-鉛板	khapa
-輕鉛	chiankha
-番人油	fagnianyau
-青灰	tshenfai
-金粉	cianfan
-銅青綠	dontshenlo
-銀粉	gnianfan
-洋漆	yitshai
-純碱	zonka
-燒碱	shiaeka
-金灰	cianfai
-礬泥	vagni
-鉛絲	khasy
-重鉛	jiuaokha
-火酒	fuciou
-批刀灰	pheiteofai
-硝鏹	shiaeji
-鐵皮	thibei
-殻子板	khotsypa
-三步倒	sabeuteo
-燥灰	seofai
-𫶝炮	ngaphuao
-鍍白	deuba
-白鐵皮	bathibei
-小方棱	shiaehuaolan
-焊錫	yusei
-焊藥	yuya
-金剛鑽	ciankuaotsoe
-細蠣灰	saileifai
-黃金灰	waocianfai
-金漆	ciantshai
-洋蠟	yila
-塳塵	bondzan
-棱㼧	landon
-鐵板	thipa
-火泥	fugni
-洋蜜	yumi
 𫶝宕	ngaduao
-煤粉	maifan
-碱死	kasy
-白膠	bakuao
-鐵惡	thio
-同有灰	donyaufai
-青鉛	tshenkha
-鋼中	kuaocion
-石灰鈣	zeifaikhoe
-泥膠	gnikuao
-蠣灰水	leifaisy
-蠣灰窰	leifaiyae
-蠣灰壇	leifaida
-蠣灰殻	leifaikho
-白玉	bagnio
-銀朱	gniantsy
-白鉛	bakha
-澆鋼	ciaekuao
-洋油	yiyau
-清油	tshenyau
-隑士林	gezylen
-水門汀	symanthen
-瓦礫爿鋒	ngoleibahon
-宕地	duaodei
-當路	tuaoleu
-路心	leusan
-𣎴頭路	goedouleu
-靈昆	lenkiu
-巷弄	waolon
-巷口頭兒	waokhaudoung
-火管巷	fukanwao
-冷巷	liaewao
-𣎴頭巷	goedouwao
-潒頭下	yidougho
-地界	deika
-紙山	tseisa
-上河鄉	yivushi
-下河鄉	ghovushi
-永嘉場	yonkoji
-城基	zentsy
-樓亭	lauden
-騎鼓樓	dzykulau
-路廊	leuluao
-老人亭	leognianden
-板橋我	pajiaeng
-石板橋	zeipajiae
-洞橋	donjiae
-橋基	jiaetsy
-橋間	jiaeka
-橋屋	jiaevu
-瑣路	soleu
-丁步	tenbeu
-丁礎	tentshy
-子丁	tsyten
-春裏	chionlei
-春三八九	chionsapociau
-五六月	nglougniu
-三夏	sagho
-秋裏	chioulei
-十二冷月	zaingliaegniu
-兩頭春	lidouchion
-立鿍	leikuao
-驚蟄	ciandzei
-穀雨	kuvu
-六梅	loumai
-交秋	kuaochiou
-處暑	tshysy
-白露	balau
-冬節
-冬節日	toncine
-節到
-年終節到
-節到節市
-節日頭	cinedou
-做節
-謝年
-撣新
-念四夜
-念九黃昏	gniciaughashiu
-分歳
-分歳酒
-分歳燭
-歳燈
-㶣紅	daghon
-過年飯	kugniva
-過年米	kugnimei
-臘貨
-正月正頭	tsengniutsendou
-正月頭	tsengniudou
-五日年	ngnegni
-開門炮	khemanphuao
-拜年客
-新年酒	sangniciou
-長八日	jipone
-該倈	kile
-滾龍	kanliae
-檔龍	tuaoliae
-布龍	peuliae
-凳板龍	tanpaliae
-迎燈
-龍燈	liaetan
-鰲山
-狗頭圈
-攔街福
-清明餅兒	tshenmenpenng
-重五節
-五月五
-重五粽
-草頭
-重五草
-雄黃酒	yonwaociou
-香袋
-長命綫	cimenshi
-龍鉛	liaekha
-划斗龍	ghotauliae
-上水
-收香
-散河
-六月六	lougniulou
-嘗新	yisan
-巧食	khuaozei
-麻巧
-七月半	tshaigniupoe
-八月十五	pogniuzaing
-出年	chiugni
-明年	mangni
-前兩年	yiliaegni
-大前年	douyigni
-年加年
-年底
-對年
-閏年
-荒年
-透年
-十二忙月	zaingmuaogniu
-月日	gniune
-一個月日	ikaigniune
-前個月日	yikaigniune
-該個月日	kikaigniune
-下個月日	ghokaigniune
-每個月日	maikaigniune
-月加月	gniukogniu
-閑月	ghagniu
-初裏
-傍月	buaogniu
-念裏
-瑣月	saigniu
-轉月	ciugniu
-頭日	doune
-許日	hene
-大後日	doughaune
-再大後日	tsedoughaue
-大前日	douyine
-再大前日	tsedouyine
-前兩日	yiliaegni
-卬你
-旁日	buaone
-早日初	tseonetshou
-下日	ghone
-轉日	ciune
-透日	thaune
-透長日	thaucine
-五更	ngkiae
-昢旦
-天光早
-日晝邊	necioupi
-早日晝	tseoneciou
-日晝陣	necioudzan
-日晝	neciou
-日晝頭	necioudou
-日晝遲	necioudzy
-上半日	yipoene
-下半日	ghopoene
-後半日	ghaupoene
-濟力下	tseileigho
-日裏	nelei
-日日黃昏	neneghashiu
-日夾星夜	nekasenyi
-落夜
-成夜
-透夜
-透長夜
-日子	netsy
-何時節
-閑時節
-盡早	zantseo
-當原初
-該下兒	kiong
-該境
-許能界	henanka
-幾能界
-濟力能界
-許下兒	heong
-前境
-當忙工夫	tuaomuaokonfeu
-臨時邊兒	lenzyping
-半半日日	poepoenene
-朝世	ciaesei
-下半世	ghopoesei
-透世
-成世
-工夫	konfeu
-落來	lole
-年甲
-古原先
-後見煞
-一風	ihon
-自耕清業	zykiaetshengni
-壅本
-壅力
-打底壅
-壅土
-煝火泥
-壅田
-拂田
-插田
-耘田
-耖田
-翻田
-拖田	thadi
-犁田
-摝田
-通田
-雙收田
-雙插田
-衆田
-接力壅
-沓壅
-耙豬沙
-豬沙
-鷄惡	tsyo
-田皮
-做肚	tsoudeu
-教拖	kuaotha
-間晚	kama
-間㮔	hociuao
-打㮔
-踏水
-踏馬水
-打坎
-早槄熟
-晚槄熟	madeoyou
-攏殼
-摜槄
-割槄
-打槄
-臿米
-交生	kuaosiae
-爛腳瘟
-曬殼坦	sakhoda
-正租
-茅坑
-惡坑
-仰天坑
-粗事
-麥熟
-壓麥
-割麥
-攏殼船
-壓番薯	afazei
-種山
-反藤	padan
-提藤
-耕藤
-魚汛
-春汛
-冬汛
-吊網
-插網
-張網
-拼網	phenmuao
-網綫
-網墜
-網腳
-網泛
-對網
-拖網	thoumuao
-合網	kiumuao
-網衣
-網桶
-網綱
-流網
-𦌵網
-網爿
-手網
-游網
-網地
-定置張網
-抛矴張網
-網艚
-偎艚
-𦌵網船
-烏賊拖兒	uzethang
-張藏魚	cizuaongeu
-藏魚罾	zuaongeutsan
-小花罾
-扳罾
-攔約
-手約
-搝海
-敲䑩
-拖風	thouhon
-拖繩	thazen
-鷹捕船
-鷹捕
-拖蝦	thouho
-橫欄兒
-墊欄
-牛繩
-茅根索	muaokiuso
-壅桶
-稻桶梯
-稻桶拔
-犁尖
+𫶝炮	ngaphuao
+#page 372
