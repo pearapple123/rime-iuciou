@@ -2850,6 +2850,7 @@ version: "1.10.0"
 瘤	lou
 瘦	sau
 瘩	ta
+搝	chiau
 瘰	lai
 瘴	ci
 瘸	jiu
@@ -3438,6 +3439,7 @@ version: "1.10.0"
 肆	sy
 肇	jiae
 肉	gniou
+游	jiau
 肋	le
 肌	tsy
 肖	shiae
@@ -3834,6 +3836,7 @@ version: "1.10.0"
 蝮	fu
 蝴	vu
 蝶	di
+偎	uai
 蝸	vu
 螂	luao
 螃	buao
@@ -4049,6 +4052,7 @@ version: "1.10.0"
 警	cian
 譬	phei
 譯	yai
+艚	zeo
 議	gni
 譴	chi
 護	vu
@@ -4109,6 +4113,7 @@ version: "1.10.0"
 賂	leu
 賂	lo
 賃	zan
+䑩	ku
 賄	fai
 資	tsy
 賈	ko
@@ -4237,6 +4242,7 @@ version: "1.10.0"
 輸	sy
 輻	fu
 輿	vu
+矴	ten
 轄	gha
 轅	yu
 轉	ciu
@@ -4410,7 +4416,9 @@ version: "1.10.0"
 鈸	boe
 鉀	ka
 鉗	ji
+抛	phuao
 鉛	kha
+𦌵	lai
 鉛	yi
 鉤	kau
 鉸	ciae
@@ -4874,6 +4882,8 @@ version: "1.10.0"
 麂	tsy
 麓	lou
 麗	lei
+汛	san
+
 麝	zei
 麥	ma
 麩	feu
@@ -5284,4 +5294,63 @@ version: "1.10.0"
 茅坑
 惡坑
 仰天坑
-# Start at p371
+粗事
+麥熟
+壓麥
+割麥
+攏殼船
+壓番薯	afazei
+種山
+反藤	padan
+提藤
+耕藤
+魚汛
+春汛
+冬汛
+吊網
+插網
+張網
+拼網	phenmuao
+網綫
+網墜
+網腳
+網泛
+對網
+拖網	thoumuao
+合網	kiumuao
+網衣
+網桶
+網綱
+流網
+𦌵網
+網爿
+手網
+游網
+網地
+定置張網
+抛矴張網
+網艚
+偎艚
+𦌵網船
+烏賊拖兒	uzethang
+張藏魚	cizuaongeu
+藏魚罾	zuaongeutsan
+小花罾
+扳罾
+攔約
+手約
+搝海
+敲䑩
+拖風	thouhon
+拖繩	thazen
+鷹捕船
+鷹捕
+拖蝦	thouho
+橫欄兒
+墊欄
+牛繩
+茅根索	muaokiuso
+壅桶
+稻桶梯
+稻桶拔
+犁尖
